@@ -100,3 +100,16 @@ Fique por dentro das últimas novidades e atualizações do [Nome do Produto]. I
 [Formulário de Inscrição](link_para_formulario_inscricao)
 
 ---
+
+## FAQ
+
+### Pergunta 1: [Pergunta frequente sobre o produto]
+**Resposta**: [Resposta para a pergunta frequente].
+
+### Pergunta 2: [Pergunta frequente sobre o produto]
+**Resposta**: [Resposta para a pergunta frequente].
+
+### Pergunta 3: [Pergunta frequente sobre o produto]
+**Resposta**: [Resposta para a pergunta frequente].
+
+---
