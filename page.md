@@ -63,3 +63,13 @@ O Banco SENAI é um banco digital que evita fraudes e problemas relacionados ao 
 - **Depoimento**: "[Depoimento do cliente 3 sobre como o produto ajudou ele]."
 
 ---
+
+## Preços
+
+| Plano        | Descrição                                                                 | Preço Mensal | Preço Anual  |
+|--------------|---------------------------------------------------------------------------|--------------|--------------|
+| **Básico**   | Acesso às funcionalidades essenciais.                                     | R$ 19,99     | R$ 199,99    |
+| **Pro**      | Inclui todas as funcionalidades do Básico mais funcionalidades avançadas. | R$ 49,99     | R$ 499,99    |
+| **Enterprise** | Solução completa para grandes empresas com suporte dedicado.             | R$ 99,99     | R$ 999,99    |
+
+---
