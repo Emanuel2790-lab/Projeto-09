@@ -33,3 +33,14 @@ O Banco SENAI é um banco digital que evita fraudes e problemas relacionados ao 
     - Benefício 1
     - Benefício 2
     - Benefício 3
+
+    ## Como Funciona?
+
+![Imagem Explicativa](link_para_imagem_explicativa.png)
+
+1. **Passo 1**: [Descrição do primeiro passo].
+2. **Passo 2**: [Descrição do segundo passo].
+3. **Passo 3**: [Descrição do terceiro passo].
+4. **Passo 4**: [Descrição do quarto passo].
+
+---
