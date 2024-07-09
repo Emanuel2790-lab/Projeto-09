@@ -92,3 +92,11 @@ O Banco SENAI é um banco digital que evita fraudes e problemas relacionados ao 
 - [Instagram](https://instagram.com/seuperfil)
 
 ---
+
+## Inscreva-se para Receber Novidades
+
+Fique por dentro das últimas novidades e atualizações do [Nome do Produto]. Inscreva-se na nossa newsletter!
+
+[Formulário de Inscrição](link_para_formulario_inscricao)
+
+---
