@@ -113,3 +113,7 @@ Fique por dentro das últimas novidades e atualizações do [Nome do Produto]. I
 **Resposta**: [Resposta para a pergunta frequente].
 
 ---
+
+Obrigado por visitar o [Nome do Produto]!
+
+[Link para o Call to Action, como "Saiba Mais" ou "Compre Agora"](link_para_cta)
